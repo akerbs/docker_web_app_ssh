@@ -25,4 +25,4 @@ WORKDIR  ./docker_web_app_ssh
 
 CMD npm start
 
-EXPOSE 3000
+EXPOSE 8080
