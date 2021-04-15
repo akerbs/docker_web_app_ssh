@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "node.js on docker",
   "author": "first last <first.last@example.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akerbs/docker_web_app_ssh.git"
+  },
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
