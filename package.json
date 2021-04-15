@@ -7,6 +7,7 @@
     "type": "git",
     "url": "git://github.com/akerbs/docker_web_app_ssh.git"
   },
+  "license": "MIT",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
